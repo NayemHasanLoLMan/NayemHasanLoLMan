@@ -1,3 +1,19 @@
+# Thanks for tuning here 👋
+
+[![](https://github.com/NayemHasanLoLMan/NayemHasanLoLMan/blob/main/chat.svg)]([YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/nayem3027/))
+
+<div align="center">
+
+<a href="https://github.com/NayemHasanLoLMan">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=90&lines=Explore+Repos;Your+Feedback+is+Appreciated;AI+in+the+City" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
 ## Hello, Nice to Meet You !!
 
 ```
@@ -43,18 +59,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NayemHasanLoLMan&icon=4&color=0)](https://visitcount.itsvg.in)
 
-# Thanks for tuning here 👋
 
-[![](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/chat.svg)](YOUR_LINKEDIN_PROFILE)
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=90&lines=Explore+Repos;Your+Feedback+is+Appreciated;AI+in+the+City" alt="Typing SVG" />
-</a>
-
-</div>
-
-<br/>
-
----
