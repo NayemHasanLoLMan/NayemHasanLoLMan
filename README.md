@@ -43,4 +43,95 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NayemHasanLoLMan&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Thanks for tuning here 👋
+
+[![](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/chat.svg)](YOUR_LINKEDIN_PROFILE)
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=90&lines=Explore+Repos;Your+Feedback+is+Appreciated;AI+in+the+City" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<p align="center">
+    <a href="YOUR_PERSONAL_WEBSITE">
+        <img src="https://img.shields.io/badge/Website-YourName.github.io-red?style=flat-square&logo=globe&logoColor=white" height="50">
+    </a>  
+    <a href="YOUR_LINKEDIN_PROFILE">
+        <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" height="50">
+    </a>
+    <a href="mailto:YOUR_EMAIL">
+        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" height="50">
+    </a>
+    <br/> 
+    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+        <img src="https://github-stats-alpha.vercel.app/api?username=YOUR_GITHUB_USERNAME&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="800">
+    </a>
+</p>
+
+<br>
+</br>
+
+<div align="center">
+
+# 🎇🌟 ⭐ ✨ Who I am ✨ ⭐ 🌟🎇
+</div>
+
+<div align="center">
+
+```╔════════════════════╗```
+```║ Passionate [Your Role] ║```
+```╚════════════════════╝```
+</div>
+
+<span style="font-size:20px;">[Your Role] with **[X months/years] of experience**, skilled in **taking ideas from concept to deployment**, building **production-ready systems using [Your Primary Technologies]**. With a **deep understanding of algorithms** and a **strong theoretical foundation** in **[Your Key Technical Areas]**. I develop projects that leverage **industry-standard tools** to automate the entire lifecycle, from **versioning to post-production monitoring**. Having **practical expertise in [Your Specific Technologies/Approaches]**, I deliver **solutions directly to customers** and using **design principles and patterns** to write **modular, maintainable code** that ensures **scalability**.  </span>
+
+<div align="center">
+
+```╔══════════════════════════════════════╗```
+```║           Connect • Code • Create     ║```
+```╚══════════════════════════════════════╝```
+
+</div>
+<div align="center">
+
+## 🎇🌟 ⭐ 🎆 ✨ 🌠 🎉 🚀 🌌 🎆 🎇 🌟 ⭐ ✨ 🎇 🌟 ⭐
+</div>
+
+<br>
+</br>
+
+# 🌟 My Expertise Spans a Broad Range of Fields
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Your_Expertise_1-%2300A1D6.svg?style=for-the-badge&logo=your-logo&logoColor=white" alt="Your Expertise 1" height="50" />
+  <img src="https://img.shields.io/badge/Your_Expertise_2-%23FF6600.svg?style=for-the-badge&logo=your-logo&logoColor=white" alt="Your Expertise 2" height="50" />
+  <!-- Add more expertise badges -->
+</p>
+
+<br>
+</br>
+
+# My Tools & Technologies
+
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white" height="50">
+  </a>
+  <!-- Add your primary tools and technologies -->
+</p>
+
+<br>
+ *I am dedicated to contributing to open-source projects and staying up-to-date with current trends like **[Your Specific Interests]**
+</br>
+
+<br> 
+</br> 🚀
